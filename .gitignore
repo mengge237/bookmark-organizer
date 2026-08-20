@@ -2,3 +2,6 @@ backup/
 recommend_state.json
 __pycache__/
 *.pyc
+ext/plan.json
+ext/add.json
+ext/remove.json

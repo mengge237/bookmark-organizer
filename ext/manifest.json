@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "Bookmark Reorg Pusher",
+  "version": "1.0",
+  "permissions": ["bookmarks", "management", "storage", "alarms"],
+  "background": { "service_worker": "service_worker.js" }
+}
